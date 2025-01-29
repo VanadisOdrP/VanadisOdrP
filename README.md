@@ -8,7 +8,7 @@ A Computer Science student who loves playing League of Legends and reading novel
 
 * 🌍  I'm based in Nakorn Pathom, Thailand
 * ✉️  You can contact me at [chotipongpancam@gmail.com](mailto:chotipongpancam@gmail.com)
-* 🧠  I'm learning React Native and Python for 3-4 months
+* 🧠  I'm learning Python for 3-4 months
 
 ### Skills
 
