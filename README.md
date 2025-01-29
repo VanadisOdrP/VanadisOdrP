@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-A Computer Science student who loves watching League of Legends and reading novels.
+A Computer Science student who loves playing League of Legends and reading novels.
 
 * 🌍  I'm based in Nakorn Pathom, Thailand
 * ✉️  You can contact me at [chotipongpancam@gmail.com](mailto:chotipongpancam@gmail.com)
-* 🧠  I'm learning I have been learning React Native and Python for 3-4 months
+* 🧠  I'm learning React Native and Python for 3-4 months
 
 ### Skills
 
