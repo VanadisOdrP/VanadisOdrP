@@ -7,7 +7,7 @@ Computer Science Student
 A Computer Science student who loves watching League of Legends and reading novels.
 
 * 🌍  I'm based in Nakorn Pathom, Thailand
-* ✉️  You can contact me at [vanadispley@gmail.com](mailto:vanadispley@gmail.com)
+* ✉️  You can contact me at [chotipongpancam@gmail.com](mailto:chotipongpancam@gmail.com)
 * 🧠  I'm learning I have been learning React Native and Python for 3-4 months
 
 ### Skills
